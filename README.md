@@ -6,7 +6,7 @@ papel, un collage de trabajos del estudio que cruzan la pantalla, cuenta
 regresiva en vivo, el gran texto "MUY PRONTO" que se invierte sobre las piezas,
 logotipo y correos que se copian con un clic.
 
-Publicada en <https://oliialioli.github.io/esamesa/>.
+Publicada en <https://olaia-esamesa.github.io/esamesa-web/>.
 
 ## Stack
 

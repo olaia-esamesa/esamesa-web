@@ -11,7 +11,7 @@ const inter = Inter({
 // deploy workflow sets it from GitHub Pages, so it follows a custom domain as
 // soon as one is configured in the repo's Pages settings.
 const siteUrl =
-  process.env.NEXT_PUBLIC_SITE_URL || "https://oliialioli.github.io/esamesa";
+  process.env.NEXT_PUBLIC_SITE_URL || "https://olaia-esamesa.github.io/esamesa-web";
 
 const title = "esamesa — Muy pronto";
 const description = "esamesa. Algo está en camino. Muy pronto.";
